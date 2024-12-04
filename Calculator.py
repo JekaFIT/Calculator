@@ -29,13 +29,6 @@ def mul():
     res = num1 * num2
     insert_values(res)
 
-
-
-
-
-
-
-
 window = tk.Tk()
 window.title('Калькулятор')
 window.geometry('350x350')
